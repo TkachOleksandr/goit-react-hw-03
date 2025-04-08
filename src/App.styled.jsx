@@ -9,7 +9,7 @@ export const PageWrapper = styled.div`
 `;
 
 export const Container = styled.div`
-  width: 400px;
+  width: 800px;
   padding: 20px;
   background-color: #fdfdfd;
   border-radius: 16px;
